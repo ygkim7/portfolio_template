@@ -25,6 +25,10 @@
 - 전공 & 과 이름
 
 
+## 📊 보유 스킬 (Skill)
+------
+- 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
+
 ## 📊 프로젝트 (Project)
 ------
 ![trash](assets/img/trash.jpeg)
