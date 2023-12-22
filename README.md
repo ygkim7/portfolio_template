@@ -1,4 +1,4 @@
-## 📊 소개 (Introduction)
+## 📊 자기 소개 (Introduction)
 ------
 
 ### 한 입니다.
@@ -10,19 +10,19 @@
 > 
 
 
-## 📊 교육 (Education)
-------
-🏫 학교 이름 (시작연도 - 졸업연도)
-
-- 전공 & 과 이름
-
-
 ## 📊 직무 경험 (Experience)
 ------
 
 **직무 타이틀** @ 회사이름 (시작연도/월 - 졸업연도/월)
 
 - Achieve X with measurement of Y using Z
+
+
+## 📊 교육 (Education)
+------
+🏫 학교 이름 (시작연도 - 졸업연도)
+
+- 전공 & 과 이름
 
 
 ## 📊 프로젝트 (Project)
